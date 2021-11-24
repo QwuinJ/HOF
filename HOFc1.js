@@ -1,4 +1,4 @@
-// Challenge
+// Challenge 1
 // Write a simple function which logs "Hello Code Nation" to the console
 // Write a higher order function to call this function five times
 
